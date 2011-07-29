@@ -1,0 +1,8 @@
+Project Voodoo libSu
+
+Author:
+	François SIMOND aka supercurio
+License:
+	Apache2
+
+Use this lib in your app to detect if superuser is installed/valid/available
